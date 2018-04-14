@@ -149,4 +149,7 @@ background-color: #fff; //background-color of the footer
       font-size: 20px;
       padding: 10px;
     }
+    .navbar{
+     padding-bottom: 5px; 
+    }
 }
