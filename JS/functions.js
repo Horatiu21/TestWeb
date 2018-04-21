@@ -1,4 +1,4 @@
 $(function() {
 	$('.clothes-pics img').each(function(i) {
-	$(this).delay((i++) * 800).fadeTo(1000, 1); })
+	$(this).delay((i++) * 600).fadeTo(1000, 1); })
 });
