@@ -68,8 +68,8 @@ body, html{
 }
 
 .parallax3{
-  background-image: url('../Images/Horatiu.png');
-  min-height: 40%;
+   background-image: url('../Images/Horatiu.png');
+  `min-height: 60%;
 }
 
 .parallax1, .parallax2, .parallax3{
